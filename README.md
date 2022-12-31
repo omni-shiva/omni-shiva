@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shivanand Kumar
-- 👀 I’m interested in Data/Business Analyst Role.
+- 👀 I’m interested in DSA and Problem Sloving.
 - 🌱 I’m currently learning SQL Adavance, Data Structure Algorithm.
 - 📫 Reach me on kumarshivanand7@gmail.com
